@@ -28,6 +28,18 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"> 
 </details>
 
+<br/>
+
+<details>
+<summary>:eye: Profile hits</summary>
+  <br/>
+  
+[![HitCount](https://hits.dwyl.com/miracguney/miracguney.svg?style=flat-square)](http://hits.dwyl.com/miracguney/miracguney)
+
+</details>
+  
+
+
 
 <!--
 **miracguney/miracguney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
