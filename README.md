@@ -1,3 +1,4 @@
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400" height="250">
 
 
@@ -10,15 +11,18 @@
 #### I’m currently working on my own projects
 
 #### Reach out to me
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" aling="left" />][linkedin]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mira%C3%A7-g%C3%BCney-b2b970244/
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" >
+
+
 <details>
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=miracguney&theme=radical"> 
+  
+<img src="https://github-readme-stats.vercel.app/api?username=miracguney&theme=radical">  
 </details>
 <br/>
 
