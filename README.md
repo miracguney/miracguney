@@ -13,6 +13,15 @@
 #### Reach out to me
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />][linkedin]
 
+#### Tech I use
+<table><tr>
+<td><img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="65" height="65"></td>
+<td><img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="65" height="65"></td>
+<td><img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="65" height="65"></td>
+ <td><img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="65" height="65"></td>
+ <td><img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="65" height="65"></td>
+ </tr></table>
+
 [linkedin]: https://www.linkedin.com/in/mira%C3%A7-g%C3%BCney-b2b970244/
 
 <br/>
