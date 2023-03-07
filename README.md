@@ -15,19 +15,11 @@
 [linkedin]: https://www.linkedin.com/in/mira%C3%A7-g%C3%BCney-b2b970244/
 
 <br/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"> 
 <details>
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=miracguney&theme=radical"> 
 </details>
-
-<br/>
-
-<details>
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"> 
-</details>
-
 <br/>
 
 <details>
