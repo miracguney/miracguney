@@ -16,7 +16,7 @@
 [linkedin]: https://www.linkedin.com/in/mira%C3%A7-g%C3%BCney-b2b970244/
 
 <br/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" >
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracguney&layout=compact&theme=radical" >
 
 
 <details>
