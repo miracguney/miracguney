@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="500" height="350">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400" height="250">
 
 
 
@@ -28,9 +28,9 @@
 
 <table align="center">  
  <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracguney&layout=compact&theme=radical" width="375" height="250">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracguney&layout=compact&theme=radical" width="275" height="150">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=miracguney&theme=radical" width="475" height="250">  
+  <img src="https://github-readme-stats.vercel.app/api?username=miracguney&theme=radical" width="375" height="200">  
  </td>
  </table>
 
