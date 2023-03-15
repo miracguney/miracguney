@@ -28,7 +28,7 @@
 
 <table align="center">  
  <td>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miracguney&layout=compact&theme=radical" width="275" height="150">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miracguney&layout=compact&theme=radical" width="400" height="150">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miracguney&theme=radical" width="375" height="150">  
  </td>
  </table>
